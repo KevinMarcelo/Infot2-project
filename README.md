@@ -1,1 +1,1 @@
-# Infot20-project
+# Infot2-project
